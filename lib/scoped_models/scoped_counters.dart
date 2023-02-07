@@ -7,7 +7,7 @@ class ScopedCounter extends Model {
   Counter counter3 = Counter();
 
   increment() {
-    print('in increment...');
+    // print('in increment...');
     counter1.count += 1;
     counter2.count += 5;
     counter3.count += 10;
