@@ -1,10 +1,15 @@
 # scoped_model_hello_world
 
-A new Flutter project.
+A new Flutter project, upgraded to demostrate the use of 'scoped_model' package.
+The original code came from Nick Manning's mentoring website
+https://fluttercrashcourse.com/
+and in particular, the tuorial
+https://fluttercrashcourse.com/blog/scoped-model-goto.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project converts the Flutter application generated 
+by "flutter create scoped_model_hello_world" to use scoped_model.
 
 A few resources to get you started if this is your first Flutter project:
 
